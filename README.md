@@ -11,15 +11,15 @@ Aplicações Web – Projetos interativos usando frameworks modernos.
 Experimentos e Estudos – Testes e protótipos desenvolvidos para aprendizado.
 
 🛠 Tecnologias Utilizadas
-Dependendo do projeto, utilizo diferentes tecnologias, incluindo:
-🔹 HTML
-🔹 CSS
-🔹 TypeScript
-🔹 React
-🔹 PHP
-🔹 Node
-🔹 Vite
-🔹 Tailwind CSS 
+Dependendo do projeto, utilizo diferentes tecnologias, incluindo:<br/>
+🔹 HTML <br/>
+🔹 CSS <br/>
+🔹 TypeScript <br/>
+🔹 React <br/>
+🔹 PHP <br/>
+🔹 Node <br/>
+🔹 Vite <br/>
+🔹 Tailwind CSS <br/>
 
 📌 Como navegar pelos projetos?
 Cada projeto possui seu próprio diretório e README específico, contendo informações detalhadas sobre sua estrutura, funcionalidades e instruções de uso.
